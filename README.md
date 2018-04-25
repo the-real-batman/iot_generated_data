@@ -12,3 +12,10 @@ The format of the data is:
 The output is in the form:
 
 deviceId Total Time (HH:mm:ss)
+
+------------------------------------------------
+The code here is in Python3 and uses the following libraries:
+
+urllib.request
+json
+datetime
