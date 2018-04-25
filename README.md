@@ -19,3 +19,7 @@ The code here is in Python3 and uses the following libraries:
 urllib.request
 json
 datetime
+
+-----------------------------------------------
+The offline dataset is named as: data.json
+The online data is at site: https://api.myjson.com/bins/1a4wyz
